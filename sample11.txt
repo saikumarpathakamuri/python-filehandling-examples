@@ -1,0 +1,3 @@
+my name is sandesh
+i will teach python
+i am from mysore
